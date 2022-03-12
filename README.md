@@ -1,3 +1,4 @@
-# Example Subgraph
+# subgraph-doc-ex
+This is the example referred to in the subgraph docs.
 
-An example to help you get started with The Graph. For more information see the docs on https://thegraph.com/docs/.
+It's temporarily deployed on The Graph Hosted Services - https://thegraph.com/hosted-service/subgraph/ramasbeinaty/subgraph-docs-ex
